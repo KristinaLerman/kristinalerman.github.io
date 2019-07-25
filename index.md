@@ -12,3 +12,6 @@
 ## News
 - _August 2019_ Keynote at ASONAM2019 in Vancouver, BC, anada
 - _June 2019_ Keynote at ICWSM in Munich, Germany. [Learning from Biased Data](url)
+
+## Selected Publications
+[Google scholar](https://scholar.google.com/citations?user=Cz6vH68AAAAJ&hl=en)
