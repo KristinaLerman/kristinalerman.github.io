@@ -1,5 +1,5 @@
-## About Kristina Lerman
-I am a Principal Scientist at USC Information Sciences Institute and holds a joint appointment as a Research Associate Professor in the USC Viterbi School of Engineering's Computer Science Department. My research focuses on applying network- and machine learning-based methods to problems in social computing.
+## About 
+Kristina Lerman is a Principal Scientist at USC Information Sciences Institute and holds a joint appointment as a Research Associate Professor in the USC Viterbi School of Engineering's Computer Science Department. Her research focuses on applying network- and machine learning-based methods to problems in social computing.
 
 ## Research Interests
 **Social Networks:** complex systems, social computing, mathematical analysis.	 
@@ -27,7 +27,7 @@ Please check my [Google scholar](https://scholar.google.com/citations?user=Cz6vH
 
 
 ## More Information
-**Contact** Best way to reach me is by email: my last name at isi.edu
+**Contact** Best way to reach me is by email: my last name at isi dot edu
 
 **Address** USC Information Sciences Institute, 4676 Admiralty Way, Marina del Rey, CA 90292
 
