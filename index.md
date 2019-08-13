@@ -10,7 +10,7 @@ I am a Principal Scientist at USC Information Sciences Institute and holds a joi
 
 
 ## News
-- _Fall 2019_ I am teaching a new course on  [Bias and Fairness in AI] (https://web-app.usc.edu/soc/syllabus/20193/32498.pdf) with [Fred Morstatter] (https://isi.edu/~fredmors/).
+- _Fall 2019_ I am teaching a new course on  [Bias and Fairness in AI](https://web-app.usc.edu/soc/syllabus/20193/32498.pdf) with [Fred Morstatter](https://isi.edu/~fredmors/).
 - _August 2019_ Keynote at ASONAM2019 in Vancouver, BC, Canada
 - _June 2019_ Keynote at ICWSM in Munich, Germany. [Learning from Biased Data](url)
 
