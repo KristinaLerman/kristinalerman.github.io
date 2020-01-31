@@ -1,5 +1,5 @@
-# [Mayank Kejriwal](http://usc-isi-i2.github.io/mkejriwal/)
-This is the website of Pedro Szekely.
+# [Kristina Lerman](https://kristinalerman.github.io/lerman/)
+This is the website of Kristina Lerman.
 ## Set up
 1. Make sure you're on Mac OS or *nix!
 2. Install [Node.js](http://nodejs.org/)
