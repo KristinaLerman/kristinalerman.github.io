@@ -105,10 +105,10 @@ section .content .highlight {
   height: 500px !important;
 }
 
-#projects .content {
+#research .content {
   max-width: 900px;
 }
-#projects .content a.project {
+#research .content a.project {
   position: relative;
   display: inline-block;
   margin: 10px;
@@ -119,7 +119,7 @@ section .content .highlight {
   overflow: hidden;
   cursor: pointer;
 }
-#projects .content a.project::before {
+#research .content a.project::before {
   content: '';
   position: absolute;
   top: 0;
@@ -129,17 +129,17 @@ section .content .highlight {
   -webkit-transition: background 0.3s linear;
           transition: background 0.3s linear;
 }
-#projects .content a.project .img-container {
+#research .content a.project .img-container {
   width: 100%;
   height: 60%;
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
 }
-#projects .content a.project .img-container.contain {
+#research .content a.project .img-container.contain {
   background-size: contain;
 }
-#projects .content a.project .description {
+#research .content a.project .description {
   position: absolute;
   bottom: 0;
   width: 100%;
@@ -149,22 +149,22 @@ section .content .highlight {
   -webkit-transition: all 0.3s linear;
           transition: all 0.3s linear;
 }
-#projects .content a.project .description .name {
+#research .content a.project .description .name {
   margin: 15px;
   margin-bottom: 5px;
   font-weight: 600;
 }
-#projects .content a.project:hover::before {
+#research .content a.project:hover::before {
   background: rgba(0, 0, 0, 0.5);
 }
-#projects .content a.project:hover .description {
+#research .content a.project:hover .description {
   background: #555;
   color: white;
 }
-#projects .content .modal-body {
+#research .content .modal-body {
   text-align: left;
 }
-#projects .content .modal-body img {
+#research .content .modal-body img {
   width: 100%;
   margin-bottom: 15px;
 }
